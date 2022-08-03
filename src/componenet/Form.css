@@ -1,0 +1,20 @@
+.body{
+  margin: 0px;
+  padding: 0px;
+}
+.form{
+  border-radius: 8px;
+  padding: 20px 0px;
+  text-align: center;
+  background-color: rgb(137, 203, 247);
+}
+.form label{
+  font-size: 20px;
+}
+.form input{
+  background-color: white;
+  border: none;
+  padding: 13px 40px;
+  margin: 30px 15px;
+  border-radius:8px ;
+}

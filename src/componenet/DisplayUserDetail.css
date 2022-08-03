@@ -1,0 +1,7 @@
+.displayComponent {
+    border: 1px solid black;
+    width: 100%;
+    list-style: none;
+    padding: 2px 5px;
+    font-weight: 400;
+}

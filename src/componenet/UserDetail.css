@@ -1,0 +1,9 @@
+.adduser {
+    background-color: rgb(129, 0, 60);
+    border: none;
+    font-size: 22px;
+}
+
+.adduser:hover {
+    background-color: rgb(175, 22, 93);
+}
